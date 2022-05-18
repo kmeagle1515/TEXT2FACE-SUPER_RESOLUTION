@@ -6,9 +6,4 @@ The generator of the DCGAN encodes the text embeddings with the help of a fully 
 
 ---
 
-## Notebooks and Scores
-
-|        | Colab Link     | Inception Score     | Fréchet Inception Distance     | Clean FID     |
-| ------------- |-------------| -------------| -------------| -------------|
-| 1 Caption | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17l9Tgz90NC0WMfCCGZGiGSHU4Qi4ghgO?usp=sharing) | 2.840 ± 0.062 | 87.146 | 87.580 |
-| 5 Caption | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L58f-Yh8nGcee9bCNAy8JXeQl6HLeTo6?usp=sharing) | 2.732 ± 0.055 | 90.268 | 90.331 |
+<img width="1045" alt="image" src="https://user-images.githubusercontent.com/16959405/168950123-7d8b36fc-5f0f-4e2f-bfd7-cdad36ddc9f5.png">
