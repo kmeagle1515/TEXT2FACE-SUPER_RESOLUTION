@@ -22,3 +22,9 @@ python test.py --gpus 1 --model sparnethd --name SPARNetHD_V4_Attn2D --res_depth
 
 //Find the FID value
 python -m pytorch_fid results_CelebA-TestN/SPARNetHD_V4_Attn2D/ test_dirs/CelebAHQ-Test-HR 
+
+![image](https://user-images.githubusercontent.com/16959405/168947339-0ef2e5ae-d929-4147-abba-f7fa1a83198c.png)
+
+![image](https://user-images.githubusercontent.com/16959405/168947380-407f0ea4-4893-43ae-8321-78b288ce7dd2.png)
+
+![image](https://user-images.githubusercontent.com/16959405/168947410-5cd96bd3-377a-4e86-90a3-cb71b695fd41.png)
