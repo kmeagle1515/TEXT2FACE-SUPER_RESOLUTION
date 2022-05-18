@@ -58,12 +58,20 @@ Or from https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 Example:
 
-Text:- The male has an oval face. He sports a goatee and has sideburns. He has bushy eyebrows. The man is smiling.
+Text:-
+
+```
+The male has an oval face. He sports a goatee and has sideburns. He has bushy eyebrows. The man is smiling.
+```
 
 ![image](https://user-images.githubusercontent.com/16959405/168955268-91e00a8b-6306-4704-8646-ab6cb5714e9e.png)
 
 
-Text:- The female has pretty high cheekbones and an oval face. Her hair is black. She has a slightly open mouth and a pointy nose. The female is smiling, looks attractive and has heavy makeup. She is wearing earrings and lipstick.
+Text:- 
+
+```
+The female has pretty high cheekbones and an oval face. Her hair is black. She has a slightly open mouth and a pointy nose. The female is smiling, looks attractive and has heavy makeup. She is wearing earrings and lipstick.
+```
 
 ![image](https://user-images.githubusercontent.com/16959405/168955322-4cd077fe-cdf8-4060-9125-6c7249f8bd9e.png)
 
