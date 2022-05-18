@@ -14,7 +14,10 @@ The following will be installed:
 - sentence-transformers==1.1.0
 - wandb==0.10.27
 
-Run the Python Notebooks
+```
+!pip install requirements_facesparnet.txt
+```
+The following will be installed:
 
 - torch==1.7.1
 - torchvision==0.8.2
@@ -30,12 +33,44 @@ Run the Python Notebooks
 - imgaug
 - pytorch-fid
 
+# Run the Python Notebooks
 
-# Image Super Resolution Command :
+## Extracting the Dataset
 
-```
-!pip install requirements_facesparnet.txt
-```
+You can download the dataset from Kaggle - https://www.kaggle.com/jessicali9530/celeba-dataset
+
+Or from https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+## Generator:
+
+<img width="879" alt="image" src="https://user-images.githubusercontent.com/16959405/168954924-7bc606ba-364a-49ff-92c6-00d77fd796ab.png">
+
+## Discriminator
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/16959405/168955008-8bce0098-acff-4a45-93b7-44e3aaecd5d7.png">
+
+## Epochs
+
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/16959405/168955093-82c0065c-b3b2-4b6d-8473-e0343631473d.png">
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/16959405/168955139-5a26a76d-d0b4-4aa7-8ece-3f6377f3c70a.png">
+
+
+Example:
+
+Text:- The male has an oval face. He sports a goatee and has sideburns. He has bushy eyebrows. The man is smiling.
+
+![image](https://user-images.githubusercontent.com/16959405/168955268-91e00a8b-6306-4704-8646-ab6cb5714e9e.png)
+
+
+Text:- The female has pretty high cheekbones and an oval face. Her hair is black. She has a slightly open mouth and a pointy nose. The female is smiling, looks attractive and has heavy makeup. She is wearing earrings and lipstick.
+
+![image](https://user-images.githubusercontent.com/16959405/168955322-4cd077fe-cdf8-4060-9125-6c7249f8bd9e.png)
+
+
+# Image Super Resolution Commands :
+
+
 
 ## Helen Dataset
 
